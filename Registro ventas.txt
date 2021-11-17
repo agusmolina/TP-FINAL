@@ -1,0 +1,4 @@
+In Fri Oct 29 16:30:09 2021 Gerardo
+Out Fri Oct 29 16:31:07 2021 Gerardo 3300.0
+In Fri Oct 29 16:31:09 2021 Horacio
+Out Fri Oct 29 16:31:26 2021 Horacio 2900.0
